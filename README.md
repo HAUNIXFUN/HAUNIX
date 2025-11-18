@@ -1,25 +1,29 @@
-# NIMBER
+# PRONIX
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-NIMBER-blue?logo=google-chrome)](https://nimber.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-NIMBER-blue?logo=twitter)](https://x.com/NIMBERLAB)
+[![Website](https://img.shields.io/badge/Website-PRONIX-blue?logo=google-chrome)](https://pronix.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-PRONIX-blue?logo=twitter)](https://x.com/PRONIXFUN)
 
-We are building something new.
+PRONIX is a real-time micro hedge engine built directly on top of Pumpfun’s on-chain event stream.
 
-NIMBER is an intelligent, next-generation evolution of Pumpfun’s mayhem mode — rebuilt from the ground up to replace randomness with structure, transparency, and real on-chain logic.
+Instead of relying on predictions or market assumptions, PRONIX operates entirely through measurable data: every buy, every sell, every liquidity shift, and every behavioral pattern emitted by active wallets. These raw signals are continuously captured and transformed into a dynamic Hedge Ratio — a real-time coefficient that describes the pressure, imbalance, and volatility of the market at any given moment.
 
-Unlike the original mode, which relied on unpredictable fluctuations, NIMBER continuously analyzes early liquidity behaviors, holder growth, transaction patterns, and market signals to generate controlled, responsive actions. 
+When buy pressure spikes, PRONIX detects the emerging imbalance and converts it into counter-cooling logic that prevents runaway FOMO.
 
-These reactions are not arbitrary; they follow clear, verifiable rules that users can observe and understand.
+When sell pressure accelerates, the engine reacts with a counter-force pulse, executing micro-adjustments that absorb volatility and stabilize short-term dumping behavior.
 
-By transforming raw early-stage volatility into readable signals, NIMBER creates a safer, more interactive environment where chaos becomes a feature rather than a threat.
+The system never guesses; it reacts.
 
-Its engine stabilizes unhealthy swings, amplifies real momentum, and adapts dynamically to market conditions — all while ensuring that no supply manipulation, contract intervention, or hidden behavior ever occurs.
+Every action is verifiable, every adjustment is computed, and every stabilization step is triggered by actual on-chain behavior.
 
-With transparency dashboards, verifiable logic, and community-driven activation, NIMBER turns early token activity into a more engaging, trustworthy, and data-driven experience.
+Powered by a continuous Capture → Compute → Counteract cycle, PRONIX becomes a living market stabilizer inside Pumpfun — turning the chaos of buy/sell noise into structured, real-time equilibrium.
 
-It doesn’t eliminate chaos — it refines it, giving creators and traders a smarter, upgraded form of mayhem they can actually rely on.
+As the market gets more volatile, PRONIX becomes more responsive; as patterns grow more extreme, the engine generates stronger compensating signals. What emerges is a self-adjusting micro-hedge mechanism that can be observed, verified, and broadcasted live.
+
+PRONIX is not a game, not a simulation, and not a model.
+
+It is a fully operational on-chain hedge engine designed to run natively inside Pumpfun’s ecosystem, proving that even in the most chaotic, meme-driven environments, logic can be built, volatility can be absorbed, and stability can be engineered.
